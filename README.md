@@ -1,4 +1,4 @@
-[project_readme.md](https://github.com/user-attachments/files/35445537/project_readme.md)
+
 
 # 🏡 NestWorth AI — California House Price Predictor (ANN)
 
@@ -55,8 +55,8 @@ House prediction using ANN/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/California-House-Price-ANN.git
-cd California-House-Price-ANN
+https://github.com/aakanshatomar3906-source/House-Price-Prediction-Using-ANN.git
+cd House-Price-Prediction-Using-ANN
 ```
 
 ### 2. Create & Activate a Virtual Environment
